@@ -3,7 +3,7 @@ Free, instant URL safety scanner. Paste any link to detect phishing, spoofing, a
 
 100% client-side. No data leaves your browser. No sign-up required.
 
-https://linkshield.netlify.app
+https://linkshield-app.netlify.app
 
 
 <img width="96" height="20" alt="image" src="https://github.com/user-attachments/assets/6ed8f7fd-cc30-44bc-b2d5-7275f103f489" />
